@@ -33,10 +33,8 @@
 
 ---
 
-### 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
+### 📊 **Top Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byrant24&layout=compact&theme=radical)  
 
 ---
 
