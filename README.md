@@ -27,10 +27,9 @@
 ---
 
 ### 🌐 **Find Me Around the Web:**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📧 [Email](mailto:your@email.com)  
-- 📝 [Medium/Blog](https://yourblog.com)  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anmolrai/)  
+- 📧 [Email](mailto:itsrai.anmol@gmail.com)  
+- 📝 [Medium/Blog](https://medium.com/@itsrai.anmol/ckad-exam-dos-and-don-ts-ad7d57fdb75f)  
 ---
 
 ### 📊 **Top Languages:**  
